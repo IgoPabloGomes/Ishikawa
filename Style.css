@@ -33,6 +33,7 @@ body {
     clear: left;
     text-align: center;
 }
+button-zoom: 
 
 .caixa {
     position: relative;
@@ -75,7 +76,7 @@ h2 {
 }
 
 p {
-    text-align: center;
+    text-align: left;
     vertical-align: top;
 }
 ul {
